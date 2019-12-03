@@ -5,7 +5,9 @@ This project explores the uses of Arc Pro and Python to create products featurin
 
 Red River Gorge is located in eastern Kentucky in the Daniel Boone National Forest. It is world-renowned for its rock climbing and geological features!
 
-![Image of Courthouse Rock](C:\WinebargerGIS\RRG2\Images\fieldtrip_geo409_191025-3 (1).jpg)
+![Image of Courthouse Rock](basemap/Images/fieldtrip_geo409_191025-3.jpg)
+
+<!-- This is a absolute file path to local resource. Let's use a relativeC:\WinebargerGIS\RRG2\Images\fieldtrip_geo409_191025-3 (1).jpg -->
 
 ![Image description](Images/fieldtrip_geo409_191025-3.jpg)
 
