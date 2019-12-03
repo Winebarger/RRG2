@@ -8,6 +8,10 @@ In the field, we estimated the rock to have apx 90 foot cliff height and its sha
 
 Prior to conducting the field work, I created a basemap for the area that I then loaded into Avenza Maps to guide my field work. The basemap was fairly accurate to the features I saw in the field!
 
+## Base map
+
+A [Geospatial PDF](RRG_Map.pdf) of the Red River Gorge.
+
 
 ## Here are some images from field work:
 
