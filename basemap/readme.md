@@ -12,10 +12,10 @@ Prior to conducting the field work, I created a basemap for the area that I then
 ## Here are some images from field work:
 
 
-![The class on the trail to Courthouse Rock](../Images/fieldtrip_geo409_191025-2.jpg)
-![Courthouse Rock](../Images/fieldtrip_geo409_191025-3.jpg)
-![Suspension Bridge over Red River](../Images/fieldtrip_geo409_191025-7.jpg)
-![Jump Rock](../Images/fieldtrip_geo409_191025-11.jpg)
+![The class on the trail to Courthouse Rock](Images/fieldtrip_geo409_191025-2.jpg)
+![Courthouse Rock](Images/fieldtrip_geo409_191025-3.jpg)
+![Suspension Bridge over Red River](Images/fieldtrip_geo409_191025-7.jpg)
+![Jump Rock](Images/fieldtrip_geo409_191025-11.jpg)
 ![View on Auxier Ridge](Images/IMG-7170.JPG)
 
 (The `../` means 'go up one directory'.)
