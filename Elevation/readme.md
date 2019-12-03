@@ -3,7 +3,7 @@
 ![Courthouse Rock](../Images/fieldtrip_geo409_191025-3.jpg)
 
 
-![My map of cliffs](../Lab7_300DPI.jpg)
+![My map of cliffs](Lab7_300DPI.jpg)
 
 
 
