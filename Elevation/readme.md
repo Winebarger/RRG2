@@ -1,6 +1,6 @@
 # Cliffs of Courthouse Rock
 
-![Courthouse Rock](../Images/fieldtrip_geo409_191025-3.jpg)
+![Courthouse Rock](../basemap/Images/fieldtrip_geo409_191025-3.jpg)
 
 
 ![My map of cliffs](Lab7_300DPI.jpg)
