@@ -16,8 +16,17 @@ A [Geospatial PDF](RRG_Map.pdf) of the Red River Gorge.
 ## Here are some images from field work:
 
 
-![The class on the trail to Courthouse Rock](Images/fieldtrip_geo409_191025-2.jpg)
-![Courthouse Rock](Images/fieldtrip_geo409_191025-3.jpg)
-![Suspension Bridge over Red River](Images/fieldtrip_geo409_191025-7.jpg)
-![Jump Rock](Images/fieldtrip_geo409_191025-11.jpg)
-![View on Auxier Ridge](Images/IMG-7170.JPG)
+![The class on the trail to Courthouse Rock](Images/fieldtrip_geo409_191025-2.jpg)    
+*The class on the trail to Courthouse Rock*
+
+![Courthouse Rock](Images/fieldtrip_geo409_191025-3.jpg)    
+*Courthouse Rock*
+
+![Suspension Bridge over Red River](Images/fieldtrip_geo409_191025-7.jpg)     
+*Suspension Bridge over Red River*
+
+![Jump Rock](Images/fieldtrip_geo409_191025-11.jpg)     
+*Jump Rock*
+
+![View on Auxier Ridge](Images/IMG-7170.JPG)    
+*View on Auxier Ridge*
