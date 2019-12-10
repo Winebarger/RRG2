@@ -13,8 +13,8 @@ Red River Gorge is located in eastern Kentucky in the Daniel Boone National Fore
 
 * [3D map of Courthouse Rock](https://Winebarger.github.io/RRG2/3d)
 * [Estimated cliff heights](Elevation/Lab7_300DPI.jpg)
-* [Field trip to Red River Gorge](basemap/readme.md)
-* [Contour Map for Princess Arch](map-pa/index.html)
+* [Field trip to Red River Gorge](basemap/)
+* [Contour Map for Princess Arch](https://Winebarger.github.io/RRG2/map-pa)
 
 
 
